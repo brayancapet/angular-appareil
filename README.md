@@ -1,4 +1,4 @@
-# Angular Gestion d'appareils
+# Gestion d'appareils
 
 ## Angular 13 
 
